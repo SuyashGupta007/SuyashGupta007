@@ -29,7 +29,26 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuyashGupta007&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashGupta007&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="htt---
+
+### 🤝 Connect with Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🐍 GitHub Snake Game
+<div align="center">
+  <img src="https://github.com/SuyashGupta007/SuyashGupta007/blob/output/github-contribution-grid-snake.svg" />
+</div>
+ps://github-readme-stats.vercel.app/api/top-langs/?username=SuyashGupta007&layout=compact&theme=dark" alt="Top Langs" />
 </div>
 
 <div align="center">

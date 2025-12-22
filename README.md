@@ -2,39 +2,50 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Suyash%20Gupta&fontSize=80&animation=fadeIn" width="100%" />
 </div>
 
-# Hi there! 👋 I'm Suyash Gupta
+# 👋 Hi there! I'm Suyash Gupta
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuyashGupta007&theme=darkhub&no-frame=true&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuyashGupta007&theme=monokai" alt="SuyashGupta007" /></a>
 </div>
 
 ### 🚀 Full Stack & Mobile App Developer
-- 💻 Specialized in building scalable clones and real-world mobile applications.
-- 🔭 Working with **React Native**, **Node.js**, and **MongoDB**.
-- 🌱 Exploring **Cloud Infrastructure** and **System Design**.
+- 💻 Specialized in building high-performance **clones** and **real-world mobile applications**.
+- 🔭 Expert in **React Native**, **Node.js**, and **MongoDB**.
+- 🌱 Always learning: Currently diving deep into **System Design** and **Cloud Infrastructure**.
 
 ---
 
 ### 🛠 Tech Stack
 
-| Frontend | Backend | Tools & Databases |
+<div align="center">
+
+| Frontend | Backend | Tools |
 | :--- | :--- | :--- |
-| ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat) | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| ![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+</div>
 
 ---
 
-### 📊 My Activity
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyashGupta007&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" />
-  <img src="htt---
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyashGupta007&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashGupta007&layout=compact&theme=tokyonight" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashGupta007&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
 
 ### 🤝 Connect with Me
 
-<div align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
@@ -42,21 +53,8 @@
   </a>
 </div>
 
----
-
-### 🐍 GitHub Snake Game
-<div align="center">
-  <img src="https://github.com/SuyashGupta007/SuyashGupta007/blob/output/github-contribution-grid-snake.svg" />
-</div>
-ps://github-readme-stats.vercel.app/api/top-langs/?username=SuyashGupta007&layout=compact&theme=dark" alt="Top Langs" />
-</div>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashGupta007&theme=dark" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SuyashGupta007&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=SuyashGupta007&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </div>

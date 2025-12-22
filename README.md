@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Suyash%20Gupta&fontSize=80&animation=fadeIn" width="100%" />
+  <isuyashgupta34604@gmail.comsuyash-gupta-660075175mg src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Suyash%20Gupta&fontSize=80&animation=fadeIn" width="100%" />
 </div>
 
 # 👋 Hi there! I'm Suyash Gupta

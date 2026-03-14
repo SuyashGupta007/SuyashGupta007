@@ -58,3 +58,35 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SuyashGupta007&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </div>
+
+
+---
+
+### 🏆 GitHub Achievements & Badges
+
+<div align="center">
+
+#### Current Achievements
+![GitHub Stats](https://img.shields.io/badge/Contributions-167-blue?style=flat-square)
+![Followers](https://img.shields.io/badge/Followers-27-green?style=flat-square)
+![Repositories](https://img.shields.io/badge/Repositories-61-orange?style=flat-square)
+![Stars Earned](https://img.shields.io/badge/Stars%20Earned-6-yellow?style=flat-square)
+
+#### Pursuing Badges
+- 🎯 **Campus Advisor Badge** - Teaching & mentoring students
+- 🚀 **Quickdraw Badge** - Fast issue resolution
+- 🧠 **Galaxy Brain Badge** - Community discussion contributions
+- 🛡️ **Security Advisor** - Security contributions
+- 👥 **Pair Extraordinaire** - Collaborative commits
+
+</div>
+
+---
+
+### 📈 Professional Growth
+- 🎓 Full Stack Developer & Educator
+- 💡 Mentoring 50+ students
+- 📚 Teaching MERN Stack & Web Development
+- 🤝 Open to collaborations & contributions
+
+---

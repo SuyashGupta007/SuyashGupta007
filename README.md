@@ -1,17 +1,17 @@
 <div align="center">
-  <isuyashgupta34604@gmail.comsuyash-gupta-660075175mg src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Suyash%20Gupta&fontSize=80&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Suyash%20Gupta&fontSize=80&animation=fadeIn" width="100%" />
 </div>
 
 # 👋 Hi there! I'm Suyash Gupta
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuyashGupta007&theme=monokai" alt="SuyashGupta007" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=SuyashGupta007&theme=monokai" alt="SuyashGupta007 Trophies" />
 </div>
 
 ### 🚀 Full Stack & Mobile App Developer
 - 💻 Specialized in building high-performance **clones** and **real-world mobile applications**.
 - 🔭 Expert in **React Native**, **Node.js**, and **MongoDB**.
-- 🌱 Always learning: Currently diving deep into **System Design** and **Cloud Infrastructure**.
+- 🌱 Always learning: Deepening expertise in **System Design**, **Distributed Architecture**, and **Cloud Infrastructure**.
 
 ---
 
@@ -32,9 +32,11 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyashGupta007&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashGupta007&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyashGupta007&show_icons=true&theme=tokyonight" height="170" alt="Suyash Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashGupta007&layout=compact&theme=tokyonight" height="170" alt="Suyash Langs" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashGupta007&theme=tokyonight" alt="GitHub Streak" />
@@ -45,11 +47,14 @@
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/suyash-gupta-660075175" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:isuyashgupta34604@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://suyashgupta.suyashgupta34604.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-20232a?style=for-the-badge&logo=google-chrome&logoColor=61DAFB" />
   </a>
 </div>
 
@@ -58,7 +63,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SuyashGupta007&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </div>
-
 
 ---
 
@@ -72,6 +76,8 @@
 ![Repositories](https://img.shields.io/badge/Repositories-61-orange?style=flat-square)
 ![Stars Earned](https://img.shields.io/badge/Stars%20Earned-6-yellow?style=flat-square)
 
+</div>
+
 #### Pursuing Badges
 - 🎯 **Campus Advisor Badge** - Teaching & mentoring students
 - 🚀 **Quickdraw Badge** - Fast issue resolution
@@ -79,14 +85,10 @@
 - 🛡️ **Security Advisor** - Security contributions
 - 👥 **Pair Extraordinaire** - Collaborative commits
 
-</div>
-
 ---
 
-### 📈 Professional Growth
-- 🎓 Full Stack Developer & Educator
-- 💡 Mentoring 50+ students
-- 📚 Teaching MERN Stack & Web Development
-- 🤝 Open to collaborations & contributions
-
----
+### 📈 Professional Growth & Leadership
+- 🎓 **Full Stack Developer & Technical Educator**
+- 💡 **Scale & Impact:** Mentored over 1,000 students in Full Stack web development.
+- 📚 **Specialization:** Technical instruction in the MERN stack, database design, and backend scalability.
+- 🤝 Open to open-source collaborations, tech leadership, and product-driven development initiatives.
